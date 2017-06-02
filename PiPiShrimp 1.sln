@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiPiShrimp 1", "Assembly-CSharp-firstpass.csproj", "{9B16B7AE-C2F4-C289-4786-01FD46E45E6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiPiShrimp 1", "Assembly-CSharp.csproj", "{54A912AC-C2CA-521C-B550-DDF622FD2E17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiPiShrimp 1", "Assembly-CSharp-Editor-firstpass.csproj", "{EE9CE877-A66A-E8C9-3EFC-A26F329287FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiPiShrimp 1", "Assembly-CSharp-Editor.csproj", "{E73DBF46-DECB-B825-49D1-9F3F0708DD3B}"
+EndProject
+Project("{0E7133F0-E97C-D750-7D17-1922E6150078}") = "PiPiShrimp 1", "Assembly-UnityScript-firstpass.unityproj", "{C4B633C0-3086-B0C4-CB4A-21D11935D48B}"
+EndProject
+Project("{0E7133F0-E97C-D750-7D17-1922E6150078}") = "PiPiShrimp 1", "Assembly-UnityScript.unityproj", "{132E641E-72C3-9820-0FCE-0DB0DDCC5B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B16B7AE-C2F4-C289-4786-01FD46E45E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B16B7AE-C2F4-C289-4786-01FD46E45E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B16B7AE-C2F4-C289-4786-01FD46E45E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B16B7AE-C2F4-C289-4786-01FD46E45E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A912AC-C2CA-521C-B550-DDF622FD2E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A912AC-C2CA-521C-B550-DDF622FD2E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A912AC-C2CA-521C-B550-DDF622FD2E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A912AC-C2CA-521C-B550-DDF622FD2E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9CE877-A66A-E8C9-3EFC-A26F329287FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9CE877-A66A-E8C9-3EFC-A26F329287FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9CE877-A66A-E8C9-3EFC-A26F329287FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9CE877-A66A-E8C9-3EFC-A26F329287FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73DBF46-DECB-B825-49D1-9F3F0708DD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73DBF46-DECB-B825-49D1-9F3F0708DD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73DBF46-DECB-B825-49D1-9F3F0708DD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73DBF46-DECB-B825-49D1-9F3F0708DD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B633C0-3086-B0C4-CB4A-21D11935D48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B633C0-3086-B0C4-CB4A-21D11935D48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B633C0-3086-B0C4-CB4A-21D11935D48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B633C0-3086-B0C4-CB4A-21D11935D48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132E641E-72C3-9820-0FCE-0DB0DDCC5B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132E641E-72C3-9820-0FCE-0DB0DDCC5B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132E641E-72C3-9820-0FCE-0DB0DDCC5B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132E641E-72C3-9820-0FCE-0DB0DDCC5B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
